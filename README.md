@@ -3,7 +3,7 @@
 
 <!-- Header -->
 
-<p align="center"> ![GIF](https://i.imgur.com/edHKAzE.jpeg) </p>
+<p align="center"> <img src="https://i.imgur.com/edHKAzE.jpeg"> </p>
 
 <!-- Body -->
 
