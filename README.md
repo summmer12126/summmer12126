@@ -17,7 +17,7 @@
 
 
 
-# 🌐:Infra
+# 🌐Infra
 #### **:computer:LINUX**
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
