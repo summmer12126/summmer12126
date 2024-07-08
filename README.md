@@ -38,3 +38,7 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+
+![GIF](https://imgur.com/edHKAzE)
+
