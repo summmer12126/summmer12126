@@ -7,8 +7,7 @@
 
 <!-- Body -->
 
-# 🦾 Skills
-**🧑‍💻 Languages**
+#🧑‍💻 Languages
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
