@@ -1,7 +1,9 @@
 ### Hey 👋
 
+
 <!-- Header -->
 
+<center> ![GIF](https://i.imgur.com/edHKAzE.jpeg) </center>
 
 <!-- Body -->
 
@@ -40,5 +42,4 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
 
-![GIF](https://i.imgur.com/edHKAzE.jpeg)
 
