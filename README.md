@@ -16,19 +16,19 @@
 
 
 # 🛠️ Infra
-## **:computer:LINUX**
+### **:computer:LINUX**
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![centos](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-# **:cloud:CLOUD**
+### **:cloud:CLOUD**
 
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-# **:ocean:CICD**
+### **:ocean:CICD**
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -43,6 +43,7 @@
 
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
