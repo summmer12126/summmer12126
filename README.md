@@ -69,6 +69,7 @@ cloud
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=summmer12126&show_icons=true&theme=radical&hide=stars,issues)
 
 
 
@@ -76,8 +77,5 @@ cloud
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=summmer12126&show_icons=true&theme=radical&hide=stars,issues)
 
 
